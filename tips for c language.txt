@@ -1,0 +1,7 @@
+in terms of operator, the first comes arithmetic, then relational, and then logical operators...
+
+in if else statements, if condition depends on previous condition then use ' else if '
+                                if not then simply use ' if ' till condition gets over
+in the ASCII value, every character has their own set of unique number associated to it
+for pointers, *  means value of address
+                   & means address of other memory location
